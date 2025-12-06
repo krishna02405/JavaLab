@@ -1,2 +1,0 @@
-favouriteMovieGenre("romantic")
-favouritFruit("watermelon")
